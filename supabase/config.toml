@@ -1,0 +1,7 @@
+project_id = "vmpkgibkcqokrfmduhlh"
+
+[functions.bootstrap-admin]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
